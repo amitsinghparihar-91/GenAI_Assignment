@@ -1,0 +1,7 @@
+streamlit>=1.38,<2
+langchain>=0.3,<2
+langchain-google-genai>=4.0,<5
+langchain-chroma>=0.2,<2
+langchain-text-splitters>=0.3,<2
+chromadb>=0.5,<2
+python-dotenv>=1.0,<2
