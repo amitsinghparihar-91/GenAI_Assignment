@@ -39,4 +39,4 @@ if __name__ == "__main__":
     passed += ok
     print(f"{'PASS' if ok else 'FAIL'} 12: {UNANSWERABLE}")
     print(f"     citations: {', '.join(citations) if citations else 'ABSTAIN'}")
-    print(f"\nChroma retrieval checks: {passed}/12 passed. Gemini chat generation wasn't called.")
+    print(f"\nChroma retrieval checks: {passed}/12 passed. Gemini chat generation was not called.")
